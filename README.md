@@ -16,15 +16,19 @@ I'm Ibnu Malik Mudzopar, a Flutter developer focused on building clean and maint
 ![RestAPI](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=json&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 My Statistics
-![GitHub Streak](https://streak-stats.demolab.com?user=wilbur-sys&theme=highcontrast&hide_border=true)
-
 ### 🌟 Featured Project
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/wilbur-sys/basisintent)
 
 ### 📫 Contact, Feel free to reach out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnu-malik-mudzopar-a027241aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibnumalikmudzopar@gmail.com)
+<br>
+<br>
+<br>
+<br>
+##
+### 📊 My Statistics
+![GitHub Streak](https://streak-stats.demolab.com?user=wilbur-sys&theme=highcontrast&hide_border=true)
 <!--
 **wilbur-sys/wilbur-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
