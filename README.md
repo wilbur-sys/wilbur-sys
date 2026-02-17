@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Ibnu Malik Mudzopar, a Flutter developer focused on building clean and maintainable mobile applications.
+I'm Ibnu Malik Mudzopar, S.T. 
+<br>_Flutter developer focused on building clean and maintainable mobile applications._
 
 ### 🚀 About Me
 - 📱 Building apps using **Flutter & Dart**
@@ -15,10 +16,46 @@ I'm Ibnu Malik Mudzopar, a Flutter developer focused on building clean and maint
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=json&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ### 🌟 Featured Project
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/wilbur-sys/basisintent)
+##
+### 📜 Certifications
+_Focused on mobile development learning path._
 
+- 🏅 Belajar Fundamental Aplikasi Flutter — Dicoding (2026)  
+  🔗 https://www.dicoding.com/certificates/ERZRL5L42ZYV  
+  🧠 Learned: state management, API integration, local storage, notification, testing
+
+- 🏅 Belajar Membuat Aplikasi Flutter untuk Pemula — Dicoding (2025)  
+  🔗 https://www.dicoding.com/certificates/JLX15V085Z72  
+  🧠 Learned: Flutter basics, widget system, navigation, deployment
+
+- 🏅 Memulai Pemrograman dengan Dart — Dicoding (2025)  
+  🔗 https://www.dicoding.com/certificates/QLZ9639G7Z5D  
+  🧠 Learned: OOP, async programming, collections, language fundamentals
+
+- 🏅 Memulai Pemrograman dengan Kotlin — Dicoding (2023)  
+  🔗 https://www.dicoding.com/certificates/81P279J9OZOY
+
+- 🏅 Belajar Membuat Aplikasi Android untuk Pemula — Dicoding (2023)  
+  🔗 https://www.dicoding.com/certificates/07Z6WG5OMZQR
+
+_While my main focus is mobile development, I’ve explored AI and data topics out of curiosity to broaden my understanding of software systems._
+#### 🌱 Additional Learning (Cross-discipline Interests)
+_I’m also curious about broader areas in software and data to expand my perspective._
+
+- 🏅 Memulai Pemrograman dengan Python — Dicoding (2023)  
+  🔗 https://www.dicoding.com/certificates/EYX400OEWPDL
+
+- 🏅 Belajar Dasar AI — Dicoding (2025)  
+  🔗 https://www.dicoding.com/certificates/GRX5J3K9YX0M
+
+- 🏅 Belajar Machine Learning untuk Pemula — Dicoding (2024)  
+  🔗 https://www.dicoding.com/certificates/EYX40V9KRPDL
+
+- 🏅 Belajar Dasar Visualisasi Data — Dicoding (2023)  
+  🔗 https://www.dicoding.com/certificates/QLZ944NLEP5D
+##
 ### 📫 Contact, Feel free to reach out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnu-malik-mudzopar-a027241aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibnumalikmudzopar@gmail.com)
