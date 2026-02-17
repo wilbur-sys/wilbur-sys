@@ -20,7 +20,10 @@ I'm Ibnu Malik Mudzopar, S.T.
 ## ⭐ Featured Project — Restaurant App
 _A Flutter application showcasing API integration, local database, daily notifications, and clean architecture principles._
 ### 🎬 Preview
-![Restaurant App Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" width="200"/>
+</p>
+
 ### ✨ Features
 - Fetch data from API
 - Detail page with smooth navigation
