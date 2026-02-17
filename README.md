@@ -24,7 +24,7 @@ I'm Ibnu Malik Mudzopar, a Flutter developer focused on building clean and maint
 [![GitHub Streak](https://streak-stats.demolab.com?user=wilbur-sys&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ### 🌟 Featured Project
-[![Repo Card](https://github.com/wilbur-sys/basisintent)](https://github.com)
+[![Repo Card](https://github.com/wilbur-sys/basisintent)](https://github.com/wilbur-sys)
 
 <!--
 **wilbur-sys/wilbur-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
