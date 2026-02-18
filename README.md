@@ -1,12 +1,13 @@
 # Hi there 👋
 
 I'm Ibnu Malik Mudzopar, S.T. 
-<br>_Flutter developer focused on building clean and maintainable mobile applications._
+<br>_Flutter developer building reliable, scalable, and production-ready mobile applications._
 
 ### 🚀 About Me
-- 📱 Building apps using **Flutter & Dart**
-- 🧠 Interested in **clean architecture** and scalable systems
-- 🌱 Currently learning advanced state management and testing
+- 📱 Building cross-platform apps with Flutter & Dart
+- 🧩 Focused on clean architecture and maintainable code
+- ⚙️ Interested in background processing, state management, and testing
+- 📈 Continuously improving in architecture, testing, and performance optimization
 - 📍 Based in Indonesia 🇮🇩
 
 ### 🛠 Tech Stack
@@ -18,34 +19,44 @@ I'm Ibnu Malik Mudzopar, S.T.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <br><br>
 ## ⭐ Featured Project — Restaurant App
-_A Flutter application showcasing API integration, local database, daily notifications, and clean architecture principles._
+A production-style Flutter application demonstrating API integration, local persistence, background scheduling, and end-to-end testing.
+
 ### 🎬 Preview
 <p align="center">
   <img src="assets/demo.gif" width="200"/>
 </p>
 
-### ✨ Features
-- Fetch data from API
-- Detail page with smooth navigation
-- Search restaurants in realtime
-- Add/remove favorites (local database)
-- Error handling
-- Loading state
+### ✨ User Features
+- Browse and search restaurants
+- View restaurant details and reviews
+- Add and manage favorites
+- Submit customer reviews
 - Daily reminder notification at 11 AM
-### 🧠 What I Practiced
-- Clean architecture (separation of concerns)
-- State management with Provider
-- API handling and error states
-- Local persistence using SQLite
-- Background task & notifications
-- Writing maintainable UI
-- ### 🧠 Engineering Thinking
-- Designed UI to handle loading, success, and error states
-- Structured features to be modular and maintainable
-- Focused on clear separation between UI and logic
+
+### 🧠 Engineering Highlights
+- Random restaurant recommendation in notifications
+- Background scheduling using Workmanager
+- Persistent settings with SharedPreferences
+- Robust state handling (loading, success, error)
+- Modular architecture separating UI, state, and data
+- Designed for maintainability and scalability
+
+### 🏗 Architecture Overview
+Data Layer → Providers → UI
+
+- API service handles network requests
+- Providers manage state and business logic
+- UI reacts to state changes
+- Background worker triggers notifications
+
+### 🧪 Testing
+- Integration tests covering core user flows
+- Widget tests for UI behavior
+- Ensuring features work together as a system
 
 ### 🛠 Tech Stack
-Flutter & Dart • REST API • SQLite • Provider • Firebase Hosting • Workmanager
+Flutter • Dart • REST API • Provider • SQLite • Workmanager • Local Notifications
+
 ### ▶️ Code
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilbur-sys/Restaurant-App)
 ### ⚙️ Notes
